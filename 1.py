@@ -26,10 +26,23 @@ else:
     print(multiplication(a,b))
  """
 # sum and average 
-num = int(input("enter you desired number"))
+""" num = int(input("enter you desired number"))
 sum = 0
 for num in  range (1,num+1):
     sum = sum + num
 print(sum)
 average = sum/num
 print(average)
+ """
+
+# cumulative sum of range 
+""" sum = 0
+previous = 0
+for i in range (0,9):
+    current = i
+    previous = sum
+    sum = sum + current
+print(previous)
+print(current)
+print(sum)
+ """
