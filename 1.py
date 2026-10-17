@@ -62,3 +62,7 @@ for i in range(len(list)-1, -1, -1):
 # generate multiple of 2
 """ for i in range (2,40,2):
     print(i) """
+# step 0 
+for i in range(1,5,0):
+    print(i) 
+   # python n step 0 leta hai n hi #krta hai 
