@@ -51,7 +51,14 @@ print(sum)
 for i in range(len(list_1)):
     print(list[i]) """
 # reverse built in function
-for i in reversed(range(1,6,1)):
-    print(i,end='')
+#for i in reversed(range(1,6,1)):
+ #   print(i,end='')
     
+    
+""" list=[10,20,30,40,50]
+for i in range(len(list)-1, -1, -1):
+    print(list[i], end=" ") """
 
+# generate multiple of 2
+""" for i in range (2,40,2):
+    print(i) """
