@@ -47,8 +47,8 @@ print(current)
 print(sum)
  """
 # list 
-""" list = ['jessa', 'emma',20,30,75.5]
+ list = ['jessa', 'emma',20,30,75.5]
 for i in range(len(list_1)):
-    print(list[i]) """
+    print(list[i]) 
 # reverse built in function
-reversed(range(1,6))
+reversed(range(1,6,1))
